@@ -1,0 +1,14 @@
+section{
+    background-color: #F7ECDE;
+    min-height: 100vh;
+}
+h1{
+    font-family: 'Pacifico', cursive;
+}
+div{
+    border-top: 2px dotted black;
+    border-bottom: 2px dotted black;;
+}
+h3{
+    color: limegreen;
+}
