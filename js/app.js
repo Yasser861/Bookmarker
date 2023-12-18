@@ -29,7 +29,7 @@ function addWeb(){
         showSites();
         deleteValue();
     }else{
-        console.log('test');
+        alert('Enter a valid URL');
     }
 }
 
